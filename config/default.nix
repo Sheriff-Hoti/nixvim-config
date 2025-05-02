@@ -4,4 +4,6 @@
     ./bufferline.nix
     ./opts.nix
   ];
+
+  colorschemes.catppuccin.enable = true;
 }
