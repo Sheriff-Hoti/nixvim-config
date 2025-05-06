@@ -3,6 +3,7 @@
   imports = [
     ./bufferline.nix
     ./opts.nix
+    ./configs/cmp.nix
   ];
 
   colorschemes.catppuccin.enable = true;

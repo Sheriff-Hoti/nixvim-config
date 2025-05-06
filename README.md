@@ -15,3 +15,5 @@ To test your configuration simply run the following command
 ```
 nix run .
 ```
+
+check this https://github.com/notusknot/dotfiles-nix/blob/main/pics/screenshot.png
