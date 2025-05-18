@@ -15,8 +15,12 @@
     ./plugins/utils/toggleterm.nix
     ./plugins/utils/web-devicons.nix
     ./plugins/utils/whichkey.nix
+    ./plugins/themes/default.nix
+    ./plugins/snippets/luasnip.nix
+    ./plugins/lsp/lsp.nix
+    ./plugins/lsp/conform.nix
+    ./plugins/lsp/figdet.nix
 
   ];
 
-  colorschemes.catppuccin.enable = true;
 }
