@@ -19,7 +19,17 @@
     ./plugins/snippets/luasnip.nix
     ./plugins/lsp/lsp.nix
     ./plugins/lsp/conform.nix
-    ./plugins/lsp/figdet.nix
+    ./plugins/lsp/fidget.nix
+    ./plugins/git/gitsigns.nix
+    ./plugins/git/lazygit.nix
+    ./plugins/editor/copilot-chat.nix
+    ./plugins/editor/illuminate.nix
+    ./plugins/editor/indent-blankline.nix
+    ./plugins/editor/navic.nix
+    ./plugins/editor/neo-tree.nix
+    ./plugins/editor/todo-comments.nix
+    ./plugins/editor/treesitter.nix
+    ./plugins/editor/undotree.nix
 
   ];
 
